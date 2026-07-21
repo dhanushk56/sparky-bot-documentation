@@ -69,4 +69,4 @@ Click the button below to invite SparkyBot to your server:
 
 ### Default Prefix
 
-The default prefix is `//`. For example:
+The default prefix is `//`.
