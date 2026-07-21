@@ -11,14 +11,11 @@ Thank you for your interest in contributing to SparkyBot! This document provides
 
 ## 📋 Table of Contents
 
-- [Code of Conduct](#code-of-conduct)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
 - [How Can I Contribute?](#how-can-i-contribute)
 - [Setting Up Development Environment](#setting-up-development-environment)
-- [Coding Standards](#coding-standards)
-- [Commit Guidelines](#commit-guidelines)
-- [Pull Request Process](#pull-request-process)
-- [Reporting Issues](#reporting-issues)
-- [Feature Requests](#feature-requests)
+- [Reporting Issues](https://discord.gg/Yw4TQvfBcy)
+- [Feature Requests](https://discord.gg/Yw4TQvfBcy)
 
 ---
 
@@ -65,7 +62,7 @@ By participating in this project, you agree to abide by our [Code of Conduct](CO
 
 ### Setup Steps
 
-```bash
+
 # 1. Fork and clone the repository
 git clone https://github.com/yourusername/sparkybot.git
 cd sparkybot
