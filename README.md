@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/123456789/123456789/logo.png" alt="SparkyBot" width="120">
+  <img src="https://cdn.discordapp.com/attachments/1524887612836413462/1529238770375856238/WhatsApp_Image_2026-07-10_at_9.56.22_AM.jpeg?ex=6a613616&is=6a5fe496&hm=48a209fa940267914d4698597a49fab4a3a426e68563ba37919d70222f77ac7d&" alt="SparkyBot" width="120">
 </p>
 
 <h1 align="center">⚡ SparkyBot</h1>
