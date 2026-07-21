@@ -73,7 +73,7 @@ We follow responsible disclosure practices:
 
 ## Reporting a Vulnerability
 
-For security issues, contact: **security@yourdomain.com**
+For security issues, open a ticket in our support server.
 
 ---
 
