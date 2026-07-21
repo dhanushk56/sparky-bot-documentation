@@ -3,7 +3,6 @@
 
 ## 📄 `CONTRIBUTING.md`
 
-```markdown
 # 🤝 Contributing to SparkyBot
 
 Thank you for your interest in contributing to SparkyBot! This document provides guidelines for contributing to the project.
