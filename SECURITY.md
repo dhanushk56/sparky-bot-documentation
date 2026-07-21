@@ -16,7 +16,7 @@ We take security seriously. If you discover a security vulnerability, please fol
 ### Steps
 
 1. **Do NOT** create a public GitHub issue for the vulnerability.
-2. **Email** the security team at: `security@yourdomain.com`
+2. **Report** to the security team at: `https://discord.gg/Yw4TQvfBcy`
 3. Provide a detailed description of the vulnerability
 4. Include steps to reproduce
 5. If possible, suggest a fix
