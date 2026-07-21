@@ -19,9 +19,6 @@
   <a href="https://sparkysite.vercel.app">
     <img src="https://img.shields.io/badge/Website-Dashboard-5865F2?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
   </a>
-  <a href="https://github.com/yourusername/sparkybot/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License">
-  </a>
 </p>
 
 <p align="center">
