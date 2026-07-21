@@ -67,7 +67,6 @@ pip install -r requirements-dev.txt  # Development dependencies
 
 # 4. Copy and configure the config file
 cp config.example.py config.py
-# Edit config.py with your settings
 
 # 5. Run the bot
 python bot.py
