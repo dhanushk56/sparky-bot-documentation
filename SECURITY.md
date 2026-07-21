@@ -80,8 +80,8 @@ For security issues, contact: **security@yourdomain.com**
 ## Updates
 
 Security updates are announced in:
-- [GitHub Releases](https://github.com/yourusername/sparkybot/releases)
-- [Support Server](https://discord.gg/YOUR_SUPPORT_SERVER)
+- [GitHub Releases](https://github.com/dhanushk56/sparkybot/releases)
+- [Support Server](https://discord.gg/Yw4TQvfBcy)
 
 ---
 
