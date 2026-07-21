@@ -12,8 +12,6 @@ Thank you for your interest in contributing to SparkyBot! This document provides
 ## 📋 Table of Contents
 
 - [Code of Conduct](CODE_OF_CONDUCT.md)
-- [How Can I Contribute?](#how-can-i-contribute)
-- [Setting Up Development Environment](#setting-up-development-environment)
 - [Reporting Issues](https://discord.gg/Yw4TQvfBcy)
 - [Feature Requests](https://discord.gg/Yw4TQvfBcy)
 
@@ -40,14 +38,6 @@ By participating in this project, you agree to abide by our [Code of Conduct](CO
 - Use the feature request template
 - Explain the problem this feature solves
 - Provide examples of how it would work
-
-### 💻 Contributing Code
-
-1. Fork the repository
-2. Create a new branch for your feature/fix
-3. Write your code following our standards
-4. Test your changes thoroughly
-5. Submit a pull request
 
 ---
 
