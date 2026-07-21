@@ -65,7 +65,7 @@
 
 Click the button below to invite SparkyBot to your server:
 
-[![Invite SparkyBot](https://img.shields.io/badge/Invite-SparkyBot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=YOUR_BOT_CLIENT_ID&permissions=1099512676374&scope=bot+applications.commands)
+[![Invite SparkyBot](https://img.shields.io/badge/Invite-SparkyBot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1528780547411804382&scope=bot+applications.commands&permissions=1099800112246)
 
 ### Default Prefix
 
