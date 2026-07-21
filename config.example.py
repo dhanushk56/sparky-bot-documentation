@@ -1,0 +1,45 @@
+# config.py
+TOKEN = "YOUR_BOT_TOKEN_HERE"
+PREFIX = "//"
+
+# API Keys
+SPOTIFY_CLIENT_ID = "your_spotify_client_id"
+SPOTIFY_CLIENT_SECRET = "your_spotify_client_secret"
+GROQ_API_KEY = "your_groq_api_key"
+
+# Database
+DATABASE_URL = "postgresql://user:pass@localhost/sparkybot"
+REDIS_URL = "redis://localhost:6379/0"
+
+# Security
+OWNER_IDS = [123456789, 987654321]
+COOKIE_API_KEY = "your_cookie_api_key"
+
+# Performance
+XP_COOLDOWN_SECONDS = 60
+XP_PER_MESSAGE_MIN = 5
+XP_PER_MESSAGE_MAX = 15
+
+# Economy
+STARTING_BALANCE = 100
+DAILY_AMOUNT = 100
+
+# Music
+DEFAULT_VOLUME = 100
+MUSIC_AUTO_DISCONNECT_DELAY = 30
+
+# Tickets
+TICKET_DEFAULT_AUTO_CLOSE_HOURS = 24
+TICKET_DEFAULT_COOLDOWN = 300
+
+# Verification
+VERIFICATION_MAX_ATTEMPTS = 3
+VERIFICATION_TIMEOUT_SECONDS = 120
+
+# Counting
+COUNTING_DEFAULT_COOLDOWN = 2
+COUNTING_DEFAULT_SAVE_LIMIT = 3
+
+# Logging
+LOG_LEVEL = "INFO"
+LOG_FILE = "sparkybot.log"
