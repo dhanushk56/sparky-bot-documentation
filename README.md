@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/oauth2/authorize?client_id=YOUR_BOT_CLIENT_ID&permissions=1099512676374&scope=bot+applications.commands">
+  <a href="https://discord.com/oauth2/authorize?client_id=1528780547411804382&scope=bot+applications.commands&permissions=1099800112246">
     <img src="https://img.shields.io/badge/Invite-SparkyBot-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Invite">
   </a>
-  <a href="https://discord.gg/YOUR_SUPPORT_SERVER">
+  <a href="https://discord.gg/Yw4TQvfBcy">
     <img src="https://img.shields.io/badge/Support-Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Support">
   </a>
-  <a href="https://your-website.com">
+  <a href="https://sparkysite.vercel.app">
     <img src="https://img.shields.io/badge/Website-Dashboard-5865F2?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
   </a>
   <a href="https://github.com/yourusername/sparkybot/blob/main/LICENSE">
